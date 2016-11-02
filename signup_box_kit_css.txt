@@ -1,0 +1,568 @@
+/*********************Style three**************************/
+
+.Subscribe-three.et_pb_subscribe .et_pb_button {
+    font-size: 0px !important;
+}
+.Subscribe-three.et_pb_signup_2.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    top: -70px;
+    right: 20px;
+}
+/*********************Style 4**********************/
+
+.Subscribe-four.et_pb_subscribe .et_pb_button {
+    font-size: 0px !important;
+}
+.Subscribe-four.et_pb_signup_3.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    top: -70px;
+    right: 20px;
+}
+/******************Style 5*************************/
+
+.Subscribe-five.et_pb_subscribe .et_pb_button {
+    font-size: 0px !important;
+}
+.Subscribe-five.et_pb_signup_4.et_pb_subscribe p {
+    padding-bottom: 0;
+}
+.Subscribe-five.et_pb_signup_4.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    right: 0;
+    top: -60px;
+    padding: 13px 30px;
+    background: #036564;
+}
+/************************Style 6***********************/
+
+.Subscribe-six.et_pb_subscribe .et_pb_button {
+    font-size: 0px !important;
+}
+.Subscribe-six.et_pb_signup_5.et_pb_subscribe p {
+    padding-bottom: 0;
+}
+.Subscribe-six.et_pb_signup_5.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    right: 0;
+    top: -58px;
+    padding: 12px 30px;
+    background: #d43a16;
+}
+/**************************Style 7********************************/
+
+.Subscribe-seven.et_pb_signup_6.et_pb_subscribe .et_pb_button {
+    font-size: 0px !important;
+}
+.Subscribe-seven.et_pb_signup_6.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    top: -50px;
+    right: 50px;
+}
+.Subscribe-seven.et_pb_signup_6.et_pb_subscribe p {
+    line-height: 0em;
+    padding: 0;
+}
+@media(min-width:1020px) {
+    .subscribe-text {
+        text-align: center;
+    }
+}
+/*****************************Style 8***************************/
+
+.Subscribe-eight.et_pb_signup_7.et_pb_subscribe .et_pb_button {
+    font-size: 0px !important;
+}
+.Subscribe-eight.et_pb_signup_7.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    top: -50px;
+    right: 50px;
+}
+.Subscribe-eight.et_pb_signup_7.et_pb_subscribe p {
+    line-height: 0em;
+    padding: 0;
+}
+/****************************Style 13******************************/
+
+@media(min-width:1100px) {
+    .Subscribe-thirteen.et_pb_signup_12 .et_pb_newsletter_description h2 {
+        width: 72%;
+    }
+    .Subscribe-box-thirteen .et_pb_column {
+        padding-left: 8%;
+    }
+}
+.Subscribe-thirteen.et_pb_signup_12.et_pb_subscribe .et_pb_button {
+    font-size: 0px !important;
+}
+.Subscribe-thirteen.et_pb_signup_12.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    right: 20px;
+    top: -68px;
+}
+.et_boxed_layout #page-container .Subscribe-box-thirteen.et_pb_row {
+    width: 100%;
+}
+.Subscribe-fourteen.et_pb_signup_12.et_pb_subscribe .et_pb_button {
+    font-size: 0 !important
+}
+.Subscribe-fourteen.et_pb_signup_12.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    right: 20px;
+    top: -67px;
+}
+/****************************Style 14*****************************/
+
+@media(min-width:1100px) {
+    .Subscribe-box-fourteen .et_pb_column {
+        padding-left: 8%;
+    }
+    .Subscribe-fourteen.et_pb_signup_13 .et_pb_newsletter_description h2 {
+        width: 72%;
+    }
+}
+.et_boxed_layout #page-container .Subscribe-box-fourteen.et_pb_row {
+    width: 100%;
+}
+.Subscribe-fourteen.et_pb_signup_13.et_pb_subscribe .et_pb_newsletter_button.et_pb_button {
+    font-size: 0 !important;
+}
+.Subscribe-fourteen.et_pb_signup_13.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    right: 15px;
+    top: -65px;
+}
+/*****************************Style 15*****************************/
+
+.Subscribe-fivteen.et_pb_signup_14.et_pb_subscribe p {
+    padding: 0;
+}
+.Subscribe-fivteen.et_pb_signup_14.et_pb_subscribe .et_pb_button {
+    font-size: 0 !important
+}
+.Subscribe-fivteen.et_pb_signup_14.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    right: 25px;
+    top: -60px;
+}
+/*****************************Style 16****************************/
+
+.Subscribe-sixteen.et_pb_signup_15.et_pb_subscribe p {
+    padding: 0;
+}
+.Subscribe-sixteen.et_pb_signup_15.et_pb_subscribe .et_pb_button {
+    font-size: 0 !important
+}
+.Subscribe-sixteen.et_pb_signup_15.et_pb_subscribe .et_pb_button:after {
+    position: absolute;
+    right: 25px;
+    top: -60px;
+}
+/************************Media Quries*****************************/
+
+@media(min-width:500px) and (max-width:750px) {
+    /********style  1******/
+    
+    .Subscribe-one.et_pb_signup_0.et_pb_subscribe p {
+        margin: 0 auto;
+        width: 65%;
+    }
+    .Subscribe-one.et_pb_signup_0 .et_pb_newsletter_description {
+        width: 60%;
+    }
+    /***********Style 2****************/
+    
+    .Subscribe-two.et_pb_signup_1.et_pb_subscribe p {
+        margin: 0 auto;
+        width: 65%;
+    }
+    .Subscribe-two.et_pb_signup_1 .et_pb_newsletter_description {
+        width: 60%;
+    }
+    /***************style 3****************/
+    
+    .Subscribe-three.et_pb_signup_2 .et_pb_newsletter_description {
+        width: 100%;
+    }
+    /**************Style 4***************/
+    
+    .Subscribe-box-four {
+        background-size: 45% 80%;
+    }
+    .Subscribe-four.et_pb_signup_3 .et_pb_newsletter_description {
+        width: 100%;
+    }
+    .Subscribe-four.et_pb_signup_3 .et_pb_newsletter_form {
+        width: 85%;
+    }
+    /************Style 5**************/
+    
+    .Subscribe-five .et_pb_feedburner_form form {
+        width: 90%;
+    }
+    /************Style 6**************/
+    
+    .Subscribe-six .et_pb_feedburner_form form {
+        width: 90%;
+    }
+    /*************style 7**************/
+    
+    .Subscribe-seven.et_pb_signup_6.et_pb_subscribe .et_pb_button:after {
+        right: 70px;
+    }
+    /*************style 8*************/
+    
+    .Subscribe-eight.et_pb_signup_7.et_pb_subscribe .et_pb_button:after {
+        right: 70px;
+    }
+    /*****************style 9*****************/
+    
+    .Subscribe-nine.et_pb_signup_8.et_pb_subscribe .et_pb_newsletter_button.et_pb_button {
+        width: 50%;
+        height: 50px !important;
+        margin: 0 auto;
+        position: relative;
+    }
+    .Subscribe-box-nine.et_pb_row {
+        background-size: 100% 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    /******************style 10******************/
+    
+    .Subscribe-ten.et_pb_signup_9.et_pb_subscribe .et_pb_newsletter_button.et_pb_button {
+        width: 50%;
+        height: 50px !important;
+        margin: 0 auto;
+        position: relative;
+    }
+    .Subscribe-box-ten.et_pb_row {
+        background-size: 100% 100%;
+        padding: 0 20px;
+    }
+    /******************style 13**********************/
+    
+    .Subscribe-box-thirteen .et_pb_column {
+        margin: 0;
+    }
+    /********************style 14*****************/
+    
+    .Subscribe-box-fourteen .et_pb_column {
+        margin: 0;
+    }
+    /*************style 15***************/
+    
+    .Subscribe-box-fivteen.et_pb_row {
+        background-size: 100% 100%;
+    }
+    .Subscribe-fivteen.et_pb_signup_14 .et_pb_newsletter_form {
+        width: 96%;
+        padding-left: 20px !important;
+    }
+    .Subscribe-fivteen.et_pb_signup_14.et_pb_subscribe p {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .Subscribe-box-fivteen .et_pb_column {
+        margin: 0px;
+    }
+    .Subscribe-fivteen.et_pb_signup_14 .et_pb_newsletter_description {
+        width: 80%;
+    }
+    /****************style 16********************/
+    
+    .Subscribe-box-sixteen.et_pb_row {
+        background-size: 100% 100%;
+    }
+    .Subscribe-sixteen.et_pb_signup_15 .et_pb_newsletter_description {
+        width: 80%;
+    }
+    .Subscribe-box-sixteen .et_pb_column {
+        margin: 0;
+    }
+    .Subscribe-sixteen.Subscribe-sixteen.et_pb_signup_15.et_pb_subscribe p {
+        margin-left: 19px;
+        width: 95%;
+    }
+}
+@media(min-width:310px) and (max-width:490px) {
+    /**************Style 1*****************/
+    
+    .Subscribe-box-one.et_pb_row_1:before {
+        position: absolute;
+        content: " ";
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+        background-color: #fff !important;
+    }
+    .Subscribe-one.et_pb_signup_0.et_pb_subscribe p {
+        line-height: 1.3em;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .Subscribe-one.et_pb_signup_0.et_pb_subscribe .et_pb_button {
+        font-size: 15px !important;
+    }
+    .Subscribe-one.et_pb_signup_0 .et_pb_newsletter_description {
+        width: 85%;
+    }
+    /*****************Style 2****************/
+    
+    .Subscribe-box-two.et_pb_row_4:before {
+        position: absolute;
+        content: " ";
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #1b1b1b !important;
+    }
+    .Subscribe-two.et_pb_signup_1.et_pb_subscribe p {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .Subscribe-two.et_pb_signup_1.et_pb_subscribe .et_pb_button {
+        font-size: 15px !important;
+    }
+    .Subscribe-two.et_pb_signup_1 .et_pb_newsletter_description {
+        width: 75%;
+    }
+    /***************style 3****************/
+    
+    .Subscribe-three.et_pb_signup_2 .et_pb_newsletter_description {
+        width: 100%;
+    }
+    /**************style 4*******************/
+    
+    .Subscribe-box-four {
+        background-size: 50% 50%;
+    }
+    .Subscribe-four.et_pb_signup_3 .et_pb_newsletter_description {
+        width: 100%;
+    }
+    .Subscribe-four.et_pb_signup_3 .et_pb_newsletter_form {
+        width: 85%;
+    }
+    /*******************style 9******************/
+    
+    .Subscribe-box-nine.et_pb_row {
+        background-size: 100% 100%;
+    }
+    .Subscribe-nine.et_pb_signup_8 .et_pb_newsletter_description {
+        width: 80%;
+    }
+    .Subscribe-nine.et_pb_signup_8 .et_pb_newsletter_form {
+        width: 85%;
+    }
+    .Subscribe-nine.et_pb_signup_8.et_pb_subscribe .et_pb_button {
+        font-size: 13px !important;
+    }
+    .Subscribe-nine.et_pb_signup_8.et_pb_subscribe .et_pb_newsletter_button.et_pb_button {
+        width: 50%;
+        height: 50px !important;
+        margin: 0 auto;
+        position: relative;
+    }
+    /*********************style 10********************/
+    
+    .Subscribe-box-ten.et_pb_row {
+        background-size: 100% 100%;
+    }
+    .Subscribe-ten.et_pb_signup_9 .et_pb_newsletter_description {
+        width: 80%;
+    }
+    .Subscribe-ten.et_pb_signup_9 .et_pb_newsletter_form {
+        width: 85%;
+    }
+    .Subscribe-ten.et_pb_signup_9.et_pb_subscribe .et_pb_button {
+        font-size: 13px !important;
+    }
+    .Subscribe-ten.et_pb_signup_9.et_pb_subscribe .et_pb_newsletter_button.et_pb_button {
+        width: 50%;
+        height: 50px !important;
+        margin: 0 auto;
+        position: relative;
+    }
+    /******************style 11********************/
+    
+    .Subscribe-box-eleven.et_pb_row_33:before {
+        width: 95%;
+        left: 0;
+    }
+    .Subscribe-eleven.et_pb_signup_10 .et_pb_newsletter_description {
+        width: 75%;
+    }
+    .Subscribe-eleven.et_pb_signup_10 .et_pb_newsletter_form {
+        width: 90%;
+        padding-left: 10px;
+    }
+    /********************style 12*******************/
+    
+    .Subscribe-box-twelve.et_pb_row_36:before {
+        width: 95%;
+        left: 0;
+    }
+    .Subscribe-twelve.et_pb_signup_11 .et_pb_newsletter_description {
+        width: 75%;
+    }
+    .Subscribe-twelve.et_pb_signup_11 .et_pb_newsletter_form {
+        width: 90%;
+        padding-left: 10px;
+    }
+    /******************style 13**********************/
+    
+    .Subscribe-box-thirteen .et_pb_column {
+        margin: 0;
+    }
+    .Subscribe-fourteen.et_pb_signup_12 .et_pb_newsletter_description {
+        width: 70%;
+    }
+    /********************style 14*****************/
+    
+    .Subscribe-box-fourteen .et_pb_column {
+        margin: 0;
+    }
+    .Subscribe-fiveteen.et_pb_signup_13 .et_pb_newsletter_description {
+        width: 70%;
+    }
+    /******************style 15**********************/
+    
+    .Subscribe-box-fivteen.et_pb_row {
+        background-size: 100% 100%;
+    }
+    .Subscribe-box-fivteen .et_pb_column {
+        margin: 0px;
+    }
+    .Subscribe-fivteen.et_pb_signup_14 .et_pb_newsletter_description {
+        width: 80%;
+    }
+    .Subscribe-fivteen.Subscribe-fivteen.et_pb_signup_14 .et_pb_newsletter_form {
+        width: 96%!important;
+        padding-left: 10px !important;
+    }
+    /*****************style 16*********************/
+    
+    .Subscribe-box-sixteen.et_pb_row {
+        background-size: 100% 100%;
+    }
+    .Subscribe-box-sixteen .et_pb_column {
+        margin: 0;
+    }
+    .Subscribe-sixteen.et_pb_signup_15 .et_pb_newsletter_description {
+        width: 80%;
+    }
+    .Subscribe-sixteen.et_pb_signup_15 .et_pb_newsletter_form {
+        width: 90%;
+        margin-left: 13px;
+    }
+}
+@media(min-width:750px) and (max-width:900px) {
+    /***************style 3****************/
+    
+    .Subscribe-three.et_pb_signup_2 .et_pb_newsletter_description {
+        width: 100%;
+    }
+    .Subscribe-three.et_pb_signup_2 .et_pb_newsletter_form {
+        width: 75%;
+    }
+    /**************Style 4***************/
+    
+    .Subscribe-box-four {
+        background-size: 35% 90%;
+    }
+    .Subscribe-four.et_pb_signup_3 .et_pb_newsletter_description {
+        width: 100%;
+    }
+    .Subscribe-four.et_pb_signup_3 .et_pb_newsletter_form {
+        width: 70%;
+    }
+    /****************style 5****************/
+    
+    .Subscribe-nine.et_pb_signup_8 .et_pb_newsletter_description {
+        width: 85%;
+    }
+    /***************style 6******************/
+    
+    .Subscribe-ten.et_pb_signup_9 .et_pb_newsletter_description {
+        width: 85%;
+    }
+    /**************style 7***************/
+    
+    .Subscribe-seven.et_pb_signup_6 .et_pb_newsletter_description {
+        margin: 0;
+    }
+    .Subscribe-seven.et_pb_signup_6 .et_pb_newsletter_form {
+        padding-left: 0px;
+    }
+    /**************style 8*************/
+    
+    .Subscribe-eight.et_pb_signup_7 .et_pb_newsletter_description {
+        margin: 0;
+    }
+    .Subscribe-eight.et_pb_signup_7 .et_pb_newsletter_form {
+        padding-left: 0px;
+    }
+    /******************style 13**********************/
+    
+    .Subscribe-box-thirteen .et_pb_column {
+        margin: 0;
+    }
+    .Subscribe-thirteen.et_pb_signup_12 .et_pb_newsletter_form {
+        padding: 0;
+    }
+    /********************style 14********************/
+    
+    .Subscribe-fourteen .et_pb_newsletter_form.et_pb_feedburner_form {
+        padding: 0;
+    }
+    .Subscribe-box-fourteen .et_pb_column {
+        margin: 0;
+    }
+    /***************style 15*******************/
+    
+    .Subscribe-fivteen.et_pb_signup_14.et_pb_subscribe p {
+        width: 100%;
+        margin-left: 31px;
+        margin-bottom: -2px;
+    }
+    .Subscribe-fivteen.et_pb_signup_14 .et_pb_newsletter_form {
+        width: 95.2% !important;
+        padding-left: 0px !important;
+    }
+    .Subscribe-box-fivteen .et_pb_column {
+        margin: 0px 0 5px 0;
+    }
+    .Subscribe-fivteen.et_pb_signup_14 .et_pb_newsletter_form {
+        padding: 0;
+    }
+    .Subscribe-fivteen.et_pb_signup_14 .et_pb_newsletter_description {
+        width: 75%;
+    }
+    /*******************style 16******************/
+    
+    .Subscribe-box-sixteen .et_pb_column {
+        margin: 0;
+    }
+    .Subscribe-sixteen.et_pb_signup_15 .et_pb_newsletter_form {
+        width: 99%;
+        padding: 0 0 4px 30px;
+    }
+    .Subscribe-sixteen.et_pb_signup_15 .et_pb_newsletter_description {
+        width: 75%;
+    }
+}
+@media (min-width: 980px) and (max-width: 1025px) {
+    .Style-seven.et_pb_row {
+        max-width: 65% !important;
+    }
+    .Style-eight.et_pb_row {
+        max-width: 65% !important;
+    }
+}
+/*********style 15*****************/
+
+.Subscribe-fivteen.et_pb_signup_14 .et_pb_newsletter_form {
+    width: 96%;
+    padding-left: 34px;
+}
